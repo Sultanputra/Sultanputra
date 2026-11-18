@@ -1,7 +1,7 @@
 # Hi there, I'm a student who loves to code! 👋
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR-GITHUB-USERNAME&color=blue&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=Sultanputra&color=blue&style=flat-square" alt="Profile Views" />
 </p>
 
 I'm just an ordinary student exploring the world of code. When I'm not studying or trying to fix bugs, you can usually find me gaming, listening to awesome soundtracks, or just hanging out online.
@@ -25,10 +25,10 @@ I'm just an ordinary student exploring the world of code. When I'm not studying 
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sultanputra&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sultanputra&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
