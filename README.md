@@ -1,16 +1,25 @@
 ## Hi there 👋
 
-<!--
-**Sultanputra/Sultanputra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 🚀 [Nama Proyek Sensei]
 
-Here are some ideas to get you started:
+[Deskripsi singkat tentang apa fungsi proyek ini dan masalah apa yang diselesaikannya. Buat sejelas mungkin dalam 1–2 kalimat!]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Status](https://img.shields.io/badge/Status-Active-brightgreen)
+![Version](https://img.shields.io/badge/Version-1.0.0-blue)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+---
+
+## ✨ Fitur Utama
+* **[Fitur 1]:** Penjelasan singkat fitur pertama.
+* **[Fitur 2]:** Penjelasan singkat fitur kedua.
+* **[Fitur 3]:** Penjelasan singkat fitur ketiga.
+
+## 🛠️ Teknologi / Komponen yang Digunakan
+* [Bahasa Pemrograman / Framework / Hardware, misal: HTML/CSS/JS, Python, Mikrokontroler, dll.]
+* [Library / Tools tambahan]
+
+## 📦 Cara Instalasi & Menjalankan
+1. **Clone repositori ini:**
+   ```bash
+   git clone [https://github.com/](https://github.com/)[username]/[nama-repo].git
